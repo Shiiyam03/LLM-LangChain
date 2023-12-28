@@ -1,7 +1,8 @@
 # LLM-LangChain
-          This repository has code for simple LangChain LLM models and also has code for different types of memory's in LangChain.
 
-          LangChain is a tool that makes it easier to use large language models (LLMs) to build applications. It provides a standard way to interact with LLMs, as well as a library of pre-trained prompt templates and a mechanism for chaining together multiple LLM calls. This makes it possible to build more complex applications using LLMs.
+This repository has code for simple LangChain LLM models and also has code for different types of memory's in LangChain.
+
+LangChain is a tool that makes it easier to use large language models (LLMs) to build applications. It provides a standard way to interact with LLMs, as well as a library of pre-trained prompt templates and a mechanism for chaining together multiple LLM calls. This makes it possible to build more complex applications using LLMs.
 
 ## Assignment 01
 ### Integration of Top LLM models in LANGCHAIN
